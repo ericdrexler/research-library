@@ -1,0 +1,85 @@
+# Index — Reframing Superintelligence: Comprehensive AI Services as General Intelligence — K. Eric Drexler, FHI Technical Report #2019-1 (Markdown edition)
+
+Rendered PDF (authoritative): https://ora.ox.ac.uk/objects/uuid:9c05427a-6390-4b42-9c55-ee45f73a26ad (Oxford Research Archive)
+
+Each numbered section is a self-contained file. Sections I–II are introductory; sections 1–40 are the topical body. Theses are the author's own one-sentence section summaries.
+
+| File | § | Title | Thesis | Cited by |
+|---|---|---|---|---|
+| `00-abstract.md` |  | Abstract |  |  |
+| `01-preface.md` |  | Preface |  |  |
+| `02-secI-intro1.md` | I | Introduction: From R&D automation to comprehensive AI Services | Responsible development of AI technologies can provide an increasingly comprehensive range of superintelligent-level AI services—including the service of developing new services—and can thereby deliver the value of general-purpose AI while avoiding the risks associated with self-modifying AI agents. | 0 |
+| `03-secII-intro2.md` | II | Overview: Questions, propositions, and topics |  | 0 |
+| `04-sec01-most-direct-path.md` | 1 | R&D automation provides the most direct path to an intelligence explosion | The most direct path to accelerating AI-enabled progress in AI technology leads through AI R&D automation, not through self-transforming AI agents. | 3 |
+| `05-sec02-standard-definitions.md` | 2 | Standard definitions of “superintelligence” conflate learning with competence | By implicitly conflating learning with competence, standard definitions of “superintelligence” fail to capture what we mean by “intelligence” and obscure much of the potential solution space for AI control problems. | 6 |
+| `06-sec03-services-not-systems.md` | 3 | To understand AI prospects, focus on services, not implementations | Shifting the focus of attention from AI systems to AI services yields a more uniform and tractable model of artificial general intelligence that reframes the problem of aligning superintelligent-level AI functionality with human purposes. | 2 |
+| `07-sec04-prescriptive-descriptive.md` | 4 | The AI-services model includes both descriptive and prescriptive aspects | The AI-services model both *describes* the architecture of current and prospective high-level AI applications, and *prescribes* patterns of development that can foster safety without impeding the speed and efficiency of AI development. | 1 |
+| `08-sec05-implicitly-anthropomorphic.md` | 5 | Rational-agent models place intelligence in an implicitly anthropomorphic frame | It is a mistake to frame intelligence as a property of mind-like systems, whether these systems are overtly anthropomorphic or abstracted into decision-making processes that guide rational agents. | 6 |
+| `09-sec06-not-maximizers.md` | 6 | A system of AI services is not equivalent to a utility maximizing agent | The conditions for von Neumann–Morgenstern rationality do not imply that *systems composed of AI services* will act as utility-maximizing agents, hence the design space for manageable superintelligent-level systems is broader than often supposed. | 2 |
+| `10-sec07-human-like.md` | 7 | Training agents in human-like environments can provide useful, bounded services | Training agents with curiosity and imagination to perform human-like tasks in human-like environments can yield systems that provide bounded, human-like services. | 1 |
+| `11-sec08-strong-optimization.md` | 8 | Strong optimization can strongly constrain AI capabilities, behavior, and effects | Strong (even superintelligent-level) optimization can be applied to increase AI safety by strongly constraining the capabilities, behavior, and effects of AI systems. | 6 |
+| `12-sec09-opaque-algorithms.md` | 9 | Opaque algorithms are compatible with functional transparency and control | Although transparency is desirable, opacity at the level of algorithms and representations need not greatly impair understanding of AI systems at higher levels of functionality. | 3 |
+| `13-sec10-automation-not-agents.md` | 10 | R&D automation dissociates recursive improvement from AI agency | In automation of AI research and development, AI agents are useful products, not necessary components. | 16 |
+| `14-sec11-agent-is-service-tech.md` | 11 | Potential AGI-enabling technologies also enable comprehensive AI services | If future AI technologies can implement self-transforming AGI agents, then similar capabilities could more easily be applied to implement open, comprehensive AI services. | 5 |
+| `15-sec12-agi-not-required.md` | 12 | AGI agents offer no compelling value | Because general AI-development capabilities can provide stable, comprehensive AI services, there is no *compelling, practical motivation* for undertaking the more difficult and potentially risky implementation of self-modifying AGI agents. | 12 |
+| `16-sec13-agi-complexity.md` | 13 | AGI-agent models entail greater complexity than CAIS | Relative to comprehensive AI services (CAIS), and contrary to widespread intuitions, the classic AGI-agent model implicitly increases (while obscuring) the complexity and challenges of self-improvement, general functionality, and AI goal alignment. | 0 |
+| `17-sec14-services-risks.md` | 14 | The AI-services model brings ample risks | High-level AI services could facilitate the development or emergence of dangerous agents, empower bad actors, and accelerate the development of seductive AI applications with harmful effects. | 4 |
+| `18-sec15-development-oriented.md` | 15 | Development-oriented models align with deeply-structured AI systems | Unitary, unstructured models of superintelligent systems are natural objects of theoretical study, but development-oriented models suggest that advanced AI systems will in practice comprise deeply structured compositions of differentiated components. | 10 |
+| `19-sec16-aggregated-experience.md` | 16 | Aggregated experience and centralized learning support AI-agent applications | Centralized learning based on aggregated experience has strong advantages over local learning based on individual experience, and will likely dominate the development of advanced AI-agent applications. | 11 |
+| `20-sec17-e2e-reinforcement.md` | 17 | End-to-end reinforcement learning is compatible with the AI-services model | End-to-end training and reinforcement learning fit naturally within integrated AI-service architectures that exploit differentiated AI components. | 1 |
+| `21-sec18-reinforcement-not-reward.md` | 18 | Reinforcement learning systems are not equivalent to reward-seeking agents | RL systems are (sometimes) used to train agents, but are not themselves agents that seek utility-like RL rewards. | 5 |
+| `22-sec19-orthogonality-undercuts.md` | 19 | The orthogonality thesis undercuts the generality of instrumental convergence | If any level of intelligence can be applied to any goal, then superintelligent-level systems can pursue goals for which the pursuit of the classic instrumentally-convergent subgoals would offer no value. | 4 |
+| `23-sec20-oracle-collusion.md` | 20 | Collusion among superintelligent oracles can readily be avoided | Because perverse collusion among AI systems would be fragile and readily avoided, there is no obstacle to applying diverse, high-level AI resources to problems of AI safety. | 13 |
+| `24-sec21-broad-world.md` | 21 | Broad world knowledge can support safe task performance | Broad, deep knowledge about the world is compatible with safe, stable, high-level task performance, including applications that support AI safety. | 4 |
+| `25-sec22-approval-models.md` | 22 | Machine learning can develop predictive models of human approval | By exploiting existing corpora that reflect human responses to actions and events, advanced ML systems could develop predictive models of human approval with potential applications to AI safety. | 12 |
+| `26-sec23-human-guidance.md` | 23 | AI development systems can support effective human guidance | Advanced, interactive AI development resources could greatly facilitate the use of human guidance in developing safe, high-level AI services. | 8 |
+| `27-sec24-human-oversight.md` | 24 | Human oversight need not impede fast, recursive AI technology improvement | Human guidance and safety-oriented monitoring can operate outside core technology development loops, and hence are compatible with fast, recursive AI technology improvement. | 8 |
+| `28-sec25-optimized-advice.md` | 25 | Optimized advice need not be optimized to induce its acceptance | Advice optimized to produce *results* may be manipulative, optimized to induce a client’s acceptance; advice optimized to produce results *conditioned on its acceptance* will be neutral in this regard. | 3 |
+| `29-sec26-design-planning.md` | 26 | Superintelligent-level systems can safely provide design and planning services | Superintelligent-level AI systems can safely converse with humans, perform creative search, and propose designs for systems to be implemented and deployed in the world. | 6 |
+| `30-sec27-competitive-pressures.md` | 27 | Competitive pressures provide little incentive to transfer strategic decisions to AI systems | Requirements for swift response may motivate transfer of tactical-level control to AI systems; at a strategic level, however, humans will have both time and good reason to consider suggested alternatives. | 3 |
+| `31-sec28-biomedical-agi.md` | 28 | Automating biomedical R&D does not require defining human welfare | Superintelligent-level support for tasks as broad as biomedical research need not incur the classic problems of AGI value alignment. | 2 |
+| `32-sec29-services-reframe-agi-role.md` | 29 | The AI-services model reframes the potential roles of AGI agents | Potential AGI agents should be considered in the context of a world that will (or readily could) have prior access to general intelligence in the form of comprehensive AI services. | 3 |
+| `33-sec30-risky-to-safe.md` | 30 | Risky AI can help develop safe AI | Complex, unitary, untrusted AI systems could be leveraged to produce non-problematic general-learning kernels through competitive optimization for objectives that heavily weight minimizing description length. | 2 |
+| `34-sec31-abilities-not-powers.md` | 31 | Supercapabilities do not entail “superpowers” | By definition, any given AI system can have “cognitive superpowers” only if others do not, hence (strategic) superpowers should be clearly distinguished from (technological) supercapabilities. | 2 |
+| `35-sec32-world-stability.md` | 32 | Unaligned superintelligent agents need not threaten world stability | A well-prepared world, able to deploy extensive, superintelligent-level security resources, need not be vulnerable to subsequent takeover by superintelligent agents. | 2 |
+| `36-sec33-ai-not-boxed.md` | 33 | Competitive AI capabilities will not be boxed | Because the world’s aggregate AI capacity will greatly exceed that of any single system, the classic “AI confinement” challenge (with AI in a box and humans outside) is better regarded as an idealization than as a concrete problem situation. | 2 |
+| `37-sec34-rd-centralization.md` | 34 | R&D automation is compatible with both strong and weak centralization | Advances in AI R&D automation are currently distributed across many independent research groups, but a range of pressures could potentially lead to strong centralization of capabilities. | 1 |
+| `38-sec35-future-knowledge.md` | 35 | Predictable aspects of future knowledge can inform AI safety strategies | AI developers will accumulate extensive safety-relevant knowledge in the course of their work, and predictable aspects of that future knowledge can inform current studies of strategies for safe AI development. | 7 |
+| `39-sec36-interim-desiderata.md` | 36 | Desiderata and directions for interim AI safety guidelines | Interim AI safety guidelines should (and could) engage with present practice, place little burden on practitioners, foster future safety-oriented development, and promote an ongoing process of guideline development and adoption. | 2 |
+| `40-sec37-neural-symbolic.md` | 37 | How do neural and symbolic technologies mesh? | Neural networks and symbolic/algorithmic AI technologies are complements, not alternatives; they are being integrated in multiple ways at levels that range from components and algorithms to system architectures. | 0 |
+| `41-sec38-broadly-competent.md` | 38 | Broadly-capable systems coordinate narrower systems | In both human and AI systems, we see broad competencies built on narrower competencies; this pattern of organization is a robust feature of intelligent systems, and scales to systems that deliver broad services at a superhuman level. | 4 |
+| `42-sec39-tiling-space.md` | 39 | Tiling task-space with AI services can provide general AI capabilities | Joint embedding of learned vector representations can be used to map tasks to services, enabling systems to provide general, extensible, seamlessly-integrated AI capabilities by exploiting the expertise of relatively narrow AI components. | 2 |
+| `43-sec40-pflop-capacity.md` | 40 | Could 1 PFLOP/s systems exceed the basic functional capacity of the human brain? | Multiple comparisons between narrow AI tasks and narrow neural tasks concur in suggesting that PFLOP/s computational systems exceed the basic functional capacity of the human brain. | 3 |
+| `44-afterword.md` |  | Afterword |  |  |
+| `45-acknowledgements.md` |  | Acknowledgements |  |  |
+
+## Figures
+
+| Figure | Section | Caption |
+|---|---|---|
+| 1 | §I | Classes of intelligent systems |
+| 2 | §8 | Optimization pressures during AI system development focus resources on tasks and enable further development based on task-focused components. |
+| 3 | §10 | Schematic model of the current AI research and development pipeline. |
+| 4 | §10 | Schematic model of an AI-enabled application-oriented system development task that draws on a range of previously developed components. |
+| 5 (text-only) | §12 | AI development processes provide affordances for constraining AI systems that can be effective without insights into their internal representations. Points of control include information inputs, model size, (im)mutability, loss functions, functional specialization and composition, and [optimization pressures](→§8) that tend to become sharper as implementation technologies improve. *(Adapted from Drexler (2015))* |
+| 6 | §16 | Individual agents capable of open-ended learning would plan, act, and adapt their actions to a particular task environment, while building on individual experience to learn better methods for planning, acting, and adaptation (generic task learning). |
+| 7 | §16 | In a naïve scale-up of the scheme outlined in Fig. 1, *N* agents would plan, act, and adapt their actions to a range of similar task environments while learning from experience independently; both costs and benefits scale as *N*, and the time required to learn tasks remains unchanged. |
+| 8 | §16 | In large-scale agent applications, *N* agents (*e.g.* a thousand or a million) would independently plan, act, and adapt in a range of similar task environments, while aggregation of the resulting task experience enables data-rich learning supported by centralized development resources. Centralized learning enables upgraded agent software to be tested before release. |
+| 9 | §26 | A task structure & architecture for interactive design engineering |
+| 10 | §30 | Applying problematic, ill-characterized AI systems to implementation tasks under competitive optimization pressure could produce clean, compact systems with general learning capabilities. (Schematic diagram) |
+| 11 | §40 | Diagram of neural and computational costs as fractions of total resources (above), scaling the totals to align the fractions (below). |
+
+## Most-cited sections (incoming cross-references)
+
+- §10 *R&D automation dissociates recursive improvement from AI agency* — cited by 16 sections
+- §20 *Collusion among superintelligent oracles can readily be avoided* — cited by 13 sections
+- §12 *AGI agents offer no compelling value* — cited by 12 sections
+- §22 *Machine learning can develop predictive models of human approval* — cited by 12 sections
+- §16 *Aggregated experience and centralized learning support AI-agent applications* — cited by 11 sections
+- §15 *Development-oriented models align with deeply-structured AI systems* — cited by 10 sections
+- §23 *AI development systems can support effective human guidance* — cited by 8 sections
+- §24 *Human oversight need not impede fast, recursive AI technology improvement* — cited by 8 sections
+- §35 *Predictable aspects of future knowledge can inform AI safety strategies* — cited by 7 sections
+- §2 *Standard definitions of “superintelligence” conflate learning with competence* — cited by 6 sections
+- §5 *Rational-agent models place intelligence in an implicitly anthropomorphic frame* — cited by 6 sections
+- §8 *Strong optimization can strongly constrain AI capabilities, behavior, and effects* — cited by 6 sections
