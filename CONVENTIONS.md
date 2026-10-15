@@ -48,7 +48,7 @@ The README then describes the item, lists its files with what each is for, and s
 5. **Moving or renaming.** Avoid moving items once the library is public. If a move is necessary, leave a `README.md` at the old path that points to the new one, and update every relative link and `INDEX.md`.
 6. **Rights.** Material is CC0 1.0 unless stated otherwise. Anything else needs a `rights` value in its metadata and a row in the exceptions list in `INDEX.md`. Others' whole works go in `third-party/`; short quotations within an item stay where they are and keep their own rights.
 7. **Duplicates.** Where files duplicate one another (a concatenation of section files, a PDF and its Markdown edition), the item's README says which to use for what.
-8. **Links.** Use relative links within the library. Check that every link resolves before committing.
+8. **Checks.** Use relative links within the library. Before committing, check that every link resolves and that every metadata block parses as YAML. Quote a whole value if it contains quotation marks or a colon followed by a space.
 
 ## Citation
 

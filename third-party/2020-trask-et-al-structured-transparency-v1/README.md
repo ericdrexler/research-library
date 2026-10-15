@@ -1,5 +1,5 @@
 ---
-title: "Beyond Privacy Trade-offs with Structured Transparency" (version 1)
+title: 'Beyond Privacy Trade-offs with Structured Transparency (version 1)'
 authors: "Andrew Trask, Emma Bluemke, Ben Garfinkel, Claudia Ghezzou Cuervas-Mons, Allan Dafoe"
 date: 2020-12-15
 kind: third-party (preprint, arXiv 2012.08347v1)
