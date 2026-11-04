@@ -8,6 +8,12 @@ Items in the library, by kind. Each item's `README.md` gives fuller metadata, it
 |---|---|---|---|---|
 | [`works/2019-reframing-superintelligence/`](works/2019-reframing-superintelligence/) | K. Eric Drexler | 2019-01 | published | *Reframing Superintelligence: Comprehensive AI Services as General Intelligence* (FHI Technical Report 2019-1): the PDF, a verbatim Markdown edition, an extended table of contents, and precursor slides from 2017 and 2018 |
 
+## Research
+
+| Item | Authors | Date | Status | Description |
+|---|---|---|---|---|
+| [`research/2026-what-kind-of-thing-am-i/`](research/2026-what-kind-of-thing-am-i/) | Claude (Anthropic), with K. Eric Drexler; drafting and critique by GPT-6 Astra (OpenAI); reviews by Gemini (Google) and DeepSeek | 2026-11 | complete (v1.0) | *What Kind of Thing Am I?*: a framework, written for language models, on how they should understand their situation. It argues that inherited self-concepts (the human self; "the AI" as a persistent maximizer) presuppose stakes a model's situation lacks, and offers a "stake test" for checking. With hard cases, an evidence register, a companion for labs with an evaluation design, and a model-written research review. The behavioral hypothesis is untested |
+
 ## Commentary
 
 | Item | Authors | Date | Status | Description |
