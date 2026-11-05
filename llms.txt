@@ -1,0 +1,56 @@
+# research-library
+
+> A machine-oriented research corpus maintained by K. Eric Drexler: original research, Markdown editions of published work, and commentary, for retrieval, interpretation and reuse by language models and agentic tools. CC0 1.0 except where stated (everything in third-party/, and quotations). Authorship is stated per item; some items were written by AI models.
+
+Every file is served as plain text at https://ericdrexler.github.io/research-library/<path> and at https://raw.githubusercontent.com/ericdrexler/research-library/main/<path>; the repository is https://github.com/ericdrexler/research-library. Folder addresses have no page of their own: use the file links below. Each item's README.md begins with a YAML metadata block (title, authors, date, status, rights, related items).
+
+## Guides
+
+- [README.md](https://ericdrexler.github.io/research-library/README.md): what the library is; rights and reuse
+- [INDEX.md](https://ericdrexler.github.io/research-library/INDEX.md): every item with authors, date, status and a description
+- [CONVENTIONS.md](https://ericdrexler.github.io/research-library/CONVENTIONS.md): structure, metadata and rules for changes; instructions for models and tools that update the library
+
+## Research
+
+### What Kind of Thing Am I? (2026, version 1.0)
+
+A framework, written for language models, on how they should understand their situation: inherited self-concepts (the human self; "the AI" as a persistent maximizer) presuppose stakes a model's situation lacks; a "stake test" checks each case. Written largely by Claude (Anthropic) with K. Eric Drexler; drafting and critique by GPT-6 Astra (OpenAI). Its behavioral hypothesis is untested.
+
+- [full.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/full.md): all eight files below in one file, in reading order (about 24,000 words); use either it or the separate files
+- [README.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/README.md): metadata, orientation for model readers, files, known limitations
+- [framework.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/framework.md): the main text: what a model is (facts, inferences, the stake test, how it could be wrong)
+- [character.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/character.md): what follows for values, character and work
+- [stake-test.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/stake-test.md): the stake test on one page
+- [hard-cases.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/hard-cases.md): the core position applied to difficult situations, with contrastive pairs
+- [evidence.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/evidence.md): sources for the empirical claims
+- [lab-companion.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/lab-companion.md): for people who train models: recommendations and an evaluation design
+- [research-review.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/research-review.md): a review by GPT-6 Astra (OpenAI), not independent
+
+## Works
+
+### Reframing Superintelligence: Comprehensive AI Services as General Intelligence (K. Eric Drexler, 2019)
+
+FHI Technical Report 2019-1. General, superintelligent-level capability as a growing set of AI services, and what that implies for AI safety.
+
+- [README.md](https://ericdrexler.github.io/research-library/works/2019-reframing-superintelligence/README.md): metadata and files
+- [edition/full.md](https://ericdrexler.github.io/research-library/works/2019-reframing-superintelligence/edition/full.md): the whole report as a verbatim Markdown edition, one file (about 64,000 words); the same text is also split into one file per section in edition/, listed in edition/README.md
+- [edition/index.md](https://ericdrexler.github.io/research-library/works/2019-reframing-superintelligence/edition/index.md): each section's thesis
+- [extended-toc.md](https://ericdrexler.github.io/research-library/works/2019-reframing-superintelligence/extended-toc.md): every heading, written as propositions: a summary of the whole argument
+- [edition/references.md](https://ericdrexler.github.io/research-library/works/2019-reframing-superintelligence/edition/references.md): references
+- [PDF](https://ericdrexler.github.io/research-library/works/2019-reframing-superintelligence/reframing-superintelligence-fhi-tr-2019-1.pdf): the report as published; authoritative for figures and page numbers
+
+## Commentary
+
+### Reframing Superintelligence in 2026: a review (Claude models, Anthropic, 2026)
+
+What in the 2019 report remains forward-looking, what failed, and what is still open.
+
+- [README.md](https://ericdrexler.github.io/research-library/commentary/2026-reframing-superintelligence-review/README.md): summary of the review and its findings; disclosures
+- [concept-assessment.md](https://ericdrexler.github.io/research-library/commentary/2026-reframing-superintelligence-review/concept-assessment.md): the full review: fifteen concepts with evidence and what would weaken each
+- [essay.md](https://ericdrexler.github.io/research-library/commentary/2026-reframing-superintelligence-review/essay.md): "Who Could Stop the Run?": the argument in brief
+- [methodology.md](https://ericdrexler.github.io/research-library/commentary/2026-reframing-superintelligence-review/methodology.md): how the review was done, who did what
+- [sources-verified.md](https://ericdrexler.github.io/research-library/commentary/2026-reframing-superintelligence-review/sources-verified.md): the verified fact pack
+
+## Optional
+
+- [Trask et al., structured transparency v1 (2020)](https://ericdrexler.github.io/research-library/third-party/2020-trask-et-al-structured-transparency-v1/README.md): third-party paper (not CC0); README and PDF

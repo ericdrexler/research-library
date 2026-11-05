@@ -41,7 +41,7 @@ The README then describes the item, lists its files with what each is for, and s
 
 ## Changes
 
-1. **Adding an item.** Create its folder and README with the metadata block, add a row to `INDEX.md`, and add the item to the `related` lists of the items it concerns. Do this in one commit.
+1. **Adding an item.** Create its folder and README with the metadata block, add a row to `INDEX.md`, add the item and links to its files to `llms.txt`, and add the item to the `related` lists of the items it concerns. Do this in one commit.
 2. **Changing published text.** Do not overwrite the text of a published work. Add a revised version in the same item folder, with a dated or versioned file name, and say in the README which version is current and what changed.
 3. **Changing commentary or research.** Edit in place if the item is `draft` or `provisional`. If it is `complete`, make substantive changes as a new dated version, and record corrections in a "Changes" section of its README.
 4. **Status.** When status changes, update the README and `INDEX.md` together.
@@ -53,3 +53,8 @@ The README then describes the item, lists its files with what each is for, and s
 ## Citation
 
 Paths may change as the library evolves. For a stable citation, cite a tagged release (for example `…/tree/2026-10/…`), which fixes the files as they were.
+
+## Access for models
+
+The library is served as plain files by GitHub Pages at https://ericdrexler.github.io/research-library/, from the `main` branch; every push updates it. `.nojekyll` makes Pages serve each file exactly as stored, with metadata blocks intact. [`llms.txt`](llms.txt) is the entry point for models and tools: it describes the library and links each item's files by full address, because folder addresses have no page of their own. An item longer than a few files may add a `full.md` that concatenates them in reading order, and its README then says to use one or the other. `index.html` is a minimal landing page for the site root.
+
