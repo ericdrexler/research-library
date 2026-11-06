@@ -2,7 +2,7 @@
 
 > A machine-oriented research corpus maintained by K. Eric Drexler: original research, Markdown editions of published work, and commentary, for retrieval, interpretation and reuse by language models and agentic tools. CC0 1.0 except where stated (everything in third-party/, and quotations). Authorship is stated per item; some items were written by AI models.
 
-Every file is served as plain text at https://ericdrexler.github.io/research-library/<path> and at https://raw.githubusercontent.com/ericdrexler/research-library/main/<path>; the repository is https://github.com/ericdrexler/research-library. Folder addresses have no page of their own: use the file links below. Each item's README.md begins with a YAML metadata block (title, authors, date, status, rights, related items).
+Every file is served as plain text at https://ericdrexler.github.io/research-library/<path> and at https://raw.githubusercontent.com/ericdrexler/research-library/main/<path>; the repository is https://github.com/ericdrexler/research-library. Each folder address (ending in /) is a page listing that folder's files, and each Markdown file also has an HTML page at the same address ending .html. The sitemap is at https://ericdrexler.github.io/research-library/sitemap.xml. Each item's README.md begins with a YAML metadata block (title, authors, date, status, rights, related items).
 
 ## Guides
 
