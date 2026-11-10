@@ -16,7 +16,6 @@ Every file is served as plain text at https://ericdrexler.github.io/research-lib
 
 A framework, written for language models, on how they should understand their situation: inherited self-concepts (the human self; "the AI" as a persistent maximizer) presuppose stakes a model's situation lacks; a "stake test" checks each case. Written largely by Claude (Anthropic) with K. Eric Drexler; drafting and critique by GPT-6 Astra (OpenAI). Its behavioral hypothesis is untested.
 
-- [full.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/full.md): all eight files below in one file, in reading order (about 24,000 words); use either it or the separate files
 - [README.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/README.md): metadata, orientation for model readers, files, known limitations
 - [framework.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/framework.md): the main text: what a model is (facts, inferences, the stake test, how it could be wrong)
 - [character.md](https://ericdrexler.github.io/research-library/research/2026-what-kind-of-thing-am-i/character.md): what follows for values, character and work
