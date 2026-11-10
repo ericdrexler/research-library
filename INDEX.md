@@ -18,7 +18,7 @@ Items in the library, by kind. Each item's `README.md` gives fuller metadata, it
 
 | Item | Authors | Date | Status | Description |
 |---|---|---|---|---|
-| [`commentary/2026-reframing-superintelligence-review/`](commentary/2026-reframing-superintelligence-review/) | Claude models (Anthropic); questions and methods proposed by K. Eric Drexler | 2026-10 | complete | A review of the 2019 report: what remains forward-looking, what failed, and what is still open. An essay, a concept assessment, a methodology and a verified fact pack |
+| [`reviews/2026-reframing-superintelligence-review/`](reviews/2026-reframing-superintelligence-review/) | Claude models (Anthropic); questions and methods proposed by K. Eric Drexler | 2026-10 | complete | A review of the 2019 report: what remains forward-looking, what failed, and what is still open. An essay, a concept assessment, a methodology and a verified fact pack |
 
 ## Third-party
 

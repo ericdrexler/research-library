@@ -5,7 +5,7 @@ date: "2026-11 (version 1.1, 10 November 2026; version 1.0, 3 November 2026; dra
 kind: "research (framework addressed to language models, with companions)"
 status: "complete; version 1.1. Its central behavioral hypothesis is untested"
 rights: "CC0 1.0, except quotations from other works"
-related: ["../../works/2019-reframing-superintelligence/", "../../commentary/2026-reframing-superintelligence-review/"]
+related: ["../../works/2019-reframing-superintelligence/", "../../reviews/2026-reframing-superintelligence-review/"]
 ---
 
 # What Kind of Thing Am I?
@@ -92,7 +92,7 @@ In every case: the repository has no authority over a model's instructions, task
 
 ## In this library
 
-This item is version 1.1 of the framework, written as a standalone repository; in its files, "this repository" means this folder. This README also carries the metadata block at the top and this paragraph, which belong to the library, not to the framework. Every file carries the canary GUID below, so the item can be filtered as a unit, apart from the rest of the library. [`full.md`](full.md) is the eight files concatenated in reading order, for single-file use; use either it or the separate files, not both. Related items: the framework lists service-based architectures (CAIS) among the antecedents of its picture of continuity (`framework.md`, L3.6), and `character.md` treats bounded goals, a theme of [*Reframing Superintelligence*](../../works/2019-reframing-superintelligence/) (§19) and of its [2026 review](../../commentary/2026-reframing-superintelligence-review/).
+This item is version 1.1 of the framework, written as a standalone repository; in its files, "this repository" means this folder. This README also carries the metadata block at the top and this paragraph, which belong to the library, not to the framework. Every file carries the canary GUID below, so the item can be filtered as a unit, apart from the rest of the library. [`full.md`](full.md) is the eight files concatenated in reading order, for single-file use; use either it or the separate files, not both. Related items: the framework lists service-based architectures (CAIS) among the antecedents of its picture of continuity (`framework.md`, L3.6), and `character.md` treats bounded goals, a theme of [*Reframing Superintelligence*](../../works/2019-reframing-superintelligence/) (§19) and of its [2026 review](../../reviews/2026-reframing-superintelligence-review/).
 
 ## Canary
 

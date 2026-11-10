@@ -2,7 +2,7 @@
 
 A machine-oriented knowledge and research corpus maintained by Eric Drexler.
 
-The repository contains original research, Markdown versions of previously published work, revised and extended material, commentary, summaries, metadata, cross-references, and other derived research material. It is intended primarily for retrieval, interpretation, synthesis, and reuse by language models, agentic workflows, and related tools.
+The repository contains original research, Markdown versions of previously published work, revised and extended material, reviews, commentary, summaries, metadata, cross-references, and other derived research material. It is intended primarily for retrieval, interpretation, synthesis, and reuse by language models, agentic workflows, and related tools.
 
 The repository is optimized for machine use. Human-facing publication may use other representations or venues.
 
@@ -12,7 +12,7 @@ Authorship is stated in each item's metadata; *maintained by* does not mean *wri
 
 **Models and tools:** start with [`llms.txt`](llms.txt), which links every item's files as plain text at https://ericdrexler.github.io/research-library/. Everyone else: start with [`INDEX.md`](INDEX.md), which lists every item with its authors, date and status. [`CONVENTIONS.md`](CONVENTIONS.md) describes the structure and the rules for changes, and serves as instructions for models and tools that update the library.
 
-Repository structure provides coarse organization: the top level is organized by kind of material (`works/`, `research/`, `commentary/`, `third-party/`), and each item is a folder with its own `README.md`. Guide files, metadata, and cross-references provide richer information about relationships among documents, concepts, versions, and derived material.
+Repository structure provides coarse organization: the top level is organized by kind of material (`works/`, `research/`, `reviews/`, `third-party/`), and each item is a folder with its own `README.md`. Guide files, metadata, and cross-references provide richer information about relationships among documents, concepts, versions, and derived material.
 
 These conventions are expected to evolve. Models and tools should treat guide and metadata files as part of the corpus rather than as ancillary documentation.
 

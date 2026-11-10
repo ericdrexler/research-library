@@ -45,11 +45,11 @@ FHI Technical Report 2019-1. General, superintelligent-level capability as a gro
 
 What in the 2019 report remains forward-looking, what failed, and what is still open.
 
-- [README.md](https://ericdrexler.github.io/research-library/commentary/2026-reframing-superintelligence-review/README.md): summary of the review and its findings; disclosures
-- [concept-assessment.md](https://ericdrexler.github.io/research-library/commentary/2026-reframing-superintelligence-review/concept-assessment.md): the full review: fifteen concepts with evidence and what would weaken each
-- [essay.md](https://ericdrexler.github.io/research-library/commentary/2026-reframing-superintelligence-review/essay.md): "Who Could Stop the Run?": the argument in brief
-- [methodology.md](https://ericdrexler.github.io/research-library/commentary/2026-reframing-superintelligence-review/methodology.md): how the review was done, who did what
-- [sources-verified.md](https://ericdrexler.github.io/research-library/commentary/2026-reframing-superintelligence-review/sources-verified.md): the verified fact pack
+- [README.md](https://ericdrexler.github.io/research-library/reviews/2026-reframing-superintelligence-review/README.md): summary of the review and its findings; disclosures
+- [concept-assessment.md](https://ericdrexler.github.io/research-library/reviews/2026-reframing-superintelligence-review/concept-assessment.md): the full review: fifteen concepts with evidence and what would weaken each
+- [essay.md](https://ericdrexler.github.io/research-library/reviews/2026-reframing-superintelligence-review/essay.md): "Who Could Stop the Run?": the argument in brief
+- [methodology.md](https://ericdrexler.github.io/research-library/reviews/2026-reframing-superintelligence-review/methodology.md): how the review was done, who did what
+- [sources-verified.md](https://ericdrexler.github.io/research-library/reviews/2026-reframing-superintelligence-review/sources-verified.md): the verified fact pack
 
 ## Optional
 

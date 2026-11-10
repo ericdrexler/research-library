@@ -10,7 +10,7 @@ The top level is organized by **kind of material**, not by topic. Topics overlap
 |---|---|
 | `works/` | Eric Drexler's published works, including Markdown versions and revised or extended versions |
 | `research/` | New original material |
-| `commentary/` | Reviews, summaries and cross-work notes, by anyone |
+| `reviews/` | Reviews, summaries and cross-work notes, by anyone |
 | `third-party/` | Others' material; not covered by the library's CC0 dedication |
 
 A top-level folder is created only when its first item is added.
@@ -26,7 +26,7 @@ Every item folder has a `README.md` that begins with this block:
 title: "…"
 authors: "…"        # who wrote it; for model-written text, the model family and developer
 date: YYYY-MM       # original date; add drafting or circulation dates in words if they matter
-kind: …             # work | research | commentary | third-party, with a short qualifier
+kind: …             # work | research | reviews | third-party, with a short qualifier
 status: …           # see below
 rights: …           # "CC0 1.0" or the exception that applies
 related: [ … ]      # relative paths to related items
@@ -43,7 +43,7 @@ The README then describes the item, lists its files with what each is for, and s
 
 1. **Adding an item.** Create its folder and README with the metadata block, add a row to `INDEX.md`, add the item and links to its files to `llms.txt`, and add the item to the `related` lists of the items it concerns. Do this in one commit.
 2. **Changing published text.** Do not overwrite the text of a published work. Add a revised version in the same item folder, with a dated or versioned file name, and say in the README which version is current and what changed.
-3. **Changing commentary or research.** Edit in place if the item is `draft` or `provisional`. If it is `complete`, make substantive changes as a new dated version, and record corrections in a "Changes" section of its README.
+3. **Changing reviews or research.** Edit in place if the item is `draft` or `provisional`. If it is `complete`, make substantive changes as a new dated version, and record corrections in a "Changes" section of its README.
 4. **Status.** When status changes, update the README and `INDEX.md` together.
 5. **Moving or renaming.** Avoid moving items once the library is public. If a move is necessary, leave a `README.md` at the old path that points to the new one, and update every relative link and `INDEX.md`.
 6. **Rights.** Material is CC0 1.0 unless stated otherwise. Anything else needs a `rights` value in its metadata and a row in the exceptions list in `INDEX.md`. Others' whole works go in `third-party/`; short quotations within an item stay where they are and keep their own rights.

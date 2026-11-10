@@ -5,7 +5,7 @@ date: 2019-01 (sections circulated as drafts from 2016-12)
 kind: work (Future of Humanity Institute Technical Report 2019-1)
 status: published; text unchanged
 rights: CC0 1.0 (dedicated by the author)
-related: ["../../commentary/2026-reframing-superintelligence-review/"]
+related: ["../../reviews/2026-reframing-superintelligence-review/"]
 ---
 
 # *Reframing Superintelligence* (2019)
@@ -23,6 +23,6 @@ K. Eric Drexler, *Reframing Superintelligence: Comprehensive AI Services as Gene
 
 **Duplication.** `edition/full.md` is the section files concatenated in reading order, for single-file use. Use either it or the section files, not both; a retrieval index built over both will return every passage twice. The PDF and the edition have the same text; the edition omits the figures.
 
-## Commentary in this library
+## Reviews and commentary in this library
 
-- [*Reframing Superintelligence* in 2026: a review](../../commentary/2026-reframing-superintelligence-review/), written by Claude models (Anthropic) in October 2026: what remains forward-looking, what failed, and what is still open.
+- [*Reframing Superintelligence* in 2026: a review](../../reviews/2026-reframing-superintelligence-review/), written by Claude models (Anthropic) in October 2026: what remains forward-looking, what failed, and what is still open.
